@@ -1,4 +1,4 @@
-# Power_BI_Dashboard
+# Pizza Sales Dasboard
 This project analyzes pizza sales data to uncover key business insights using MySQL for data extraction and Power BI for visualization.
 The goal is to help a pizza restaurant optimize its sales strategy by identifying best-selling pizzas, peak sales hours, and customer preferences.
 
